@@ -1,6 +1,8 @@
 Erlang tutorial day 1
 =====================
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Erlang_logo.svg" width="200">
+
 Table of Contents
 -----------------
 
@@ -15,9 +17,7 @@ Table of Contents
 
 **This tutorial**
 
-- Plan: ~8 sessions
-- [Theory: Learn You Some Erlang by Fred Hebert](http://learnyousomeerlang.com/content)
-- [Exercises: Mostly from Etudes for Erlang](https://github.com/oreillymedia/etudes-for-erlang)
+[<img src="http://learnyousomeerlang.com/static/img/splash-book.png" alt="Learn You Some Erlang book" width="200">](http://learnyousomeerlang.com/content) [<img src="https://covers.oreillystatic.com/images/0636920030034/cat.gif" alt="Etudes for Erlang book" width="200">](https://github.com/oreillymedia/etudes-for-erlang)
 
 **Erlang**
 
@@ -26,8 +26,12 @@ Table of Contents
 - Processes, node → concurrency, multi-core, distribution
 - Tracing and hot code loading
 
+[<img src="Erlang.png" alt="Agner Krarup Erlang" width="200">](https://en.wikipedia.org/wiki/Agner_Krarup_Erlang)
+
 2 Setup
 -------
+
+<img src="dual.png" width="400">
 
 ### 2.1 [Setup](http://learnyousomeerlang.com/introduction)
 
@@ -51,6 +55,8 @@ Editor/IDE: Emacs, Vim, IntelliJ IDEA, Visual Studio Code, Sublime, ...
 
 3 Erlang shell, variables, types, modules, functions
 ----------------------------------------------------
+
+<img src="https://images.freeimages.com/images/large-previews/866/shell-1423417.jpg" alt="" width=200>
 
 ### 3.1 [Starting Out - The Shell](http://learnyousomeerlang.com/starting-out)
 
@@ -110,6 +116,8 @@ Editor/IDE: Emacs, Vim, IntelliJ IDEA, Visual Studio Code, Sublime, ...
 4 Exercises
 -----------
 
+<img src="https://images.freeimages.com/images/large-previews/a56/ninja-mura-2-1436280.jpg" width="400">
+
 ### Exercise 1: Installation
 
 Install Erlang.
@@ -135,6 +143,8 @@ are stuck: first calculate the length of the average month.)
 
 [one_year_long_mission]: https://en.wikipedia.org/wiki/ISS_year_long_mission
 
+[Example solution](one_year.md).
+
 ### Exercise 5: Temperature
 
 Extra 2: Write functions `temp:f2c(F)` and `temp:c2f(C)` which convert between
@@ -147,6 +157,8 @@ Fahrenheit to Celsius, subtract 32 from the number and then divide the
 difference by 1.8.
 
 Don't forget to add type specs and docstrings.
+
+[Example solution](temp.erl).
 
 ### Exercise 6: Time
 
@@ -180,9 +192,11 @@ Don't forget to add type specs and docstrings.
     ```
 Don't forget to add type specs and docstrings.
 
+[Example solution](time.erl).
+
 5 Recommendation
 ----------------
 
 Watch "Erlang: The Movie". It's only 11 minutes:
 
-[![Erlang: The Movie (Youtube)](https://img.youtube.com/vi/xrIjfIjssLE/0.jpg)](https://www.youtube.com/watch?v=xrIjfIjssLE)
+[<img src="https://img.youtube.com/vi/xrIjfIjssLE/0.jpg" alt="Erlang: The Movie (Youtube)" width="400">](https://www.youtube.com/watch?v=xrIjfIjssLE)
