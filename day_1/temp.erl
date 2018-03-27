@@ -5,7 +5,7 @@
 
 %% @doc Convert Fahrenheit into Celsius.
 -spec f2c(number()) -> number().
-f2c(F) -> 
+f2c(F) ->
     (F - 32) / 1.8.
 
 %% @doc Convert Celsius into Fahrenheit.
