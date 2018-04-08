@@ -124,16 +124,11 @@ Install Erlang.
 
 ### Exercise 2: Shell
 
-[Étude 1: Getting Comfortable with Erlang](https://github.com/oreillymedia/etudes-for-erlang/blob/master/ch01-getting-comfortable.asciidoc).
+[Étude 1: Getting Comfortable with Erlang](https://github.com/cursorinsight/etudes-for-erlang/blob/master/ch01-getting-comfortable.asciidoc).
 
 ### Exercise 3: Geometry
 
-[Étude 2: Functions and Modules](https://github.com/oreillymedia/etudes-for-erlang/blob/master/ch02-functions_and_modules.asciidoc).
-
-Example solutions:
-[Étude 2-1](https://github.com/oreillymedia/etudes-for-erlang/tree/master/code/ch02-01),
-[Étude 2-2](https://github.com/oreillymedia/etudes-for-erlang/tree/master/code/ch02-02),
-[Étude 2-3](https://github.com/oreillymedia/etudes-for-erlang/tree/master/code/ch02-03).
+[Étude 2: Functions and Modules](https://github.com/cursorinsight/etudes-for-erlang/blob/master/ch02-functions_and_modules.asciidoc).
 
 ### Exercise 4: One Year Long Mission
 
