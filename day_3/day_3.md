@@ -409,7 +409,7 @@ Table of Contents
 
 <img src="https://c1.staticflickr.com/7/6101/6301987888_d906c752ab_b.jpg" width="400">
 
-* [Étude 5-2: Using the `re` Module](https://github.com/cursorinsight/etudes-for-erlang/blob/day3/ch05-strings.asciidoc#Étude-5-2-using-the-re-module).
-* [Étude 6: Lists](https://github.com/cursorinsight/etudes-for-erlang/blob/day3/ch06-lists.asciidoc).
+* [Étude 5-2: Using the `re` Module](https://github.com/cursorinsight/etudes-for-erlang/blob/master/ch05-strings.asciidoc#Étude-5-2-using-the-re-module).
+* [Étude 6: Lists](https://github.com/cursorinsight/etudes-for-erlang/blob/master/ch06-lists.asciidoc).
     * Bonus: Interlude section
-* Bonus: [Étude 5-1: Validating Input](https://github.com/cursorinsight/etudes-for-erlang/blob/day3/ch05-strings.asciidoc#Étude-5-1-validating-input).
+* Bonus: [Étude 5-1: Validating Input](https://github.com/cursorinsight/etudes-for-erlang/blob/master/ch05-strings.asciidoc#Étude-5-1-validating-input).
