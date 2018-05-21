@@ -4,4 +4,5 @@
 ### [Day 2](day_2/day_2.md): Logic, atoms, tuples, pattern matching, recursion
 ### [Day 3](day_3/day_3.md): Lists, strings
 ### [Day 4](day_4/day_4.md): Higher Order Functions and List Comprehensions
+### [Day 5](day_5/day_5.md): Processes
 ### [Video recordings on YouTube](https://www.youtube.com/channel/UCam7igqCxlkq9Ih0cmdECEA)
