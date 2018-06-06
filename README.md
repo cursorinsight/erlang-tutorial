@@ -5,4 +5,5 @@
 ### [Day 3](day_3/day_3.md): Lists, strings
 ### [Day 4](day_4/day_4.md): Higher Order Functions and List Comprehensions
 ### [Day 5](day_5/day_5.md): Processes
-### [Video recordings on YouTube](https://www.youtube.com/channel/UCam7igqCxlkq9Ih0cmdECEA)
+### [Day 6](day_6/day_6.md): Handling errors
+### [Video recordings on YouTube](https://www.youtube.com/playlist?list=PL6K67O_aZIH5W_H7s7iLV-_Kui4cYPv3D)
