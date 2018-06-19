@@ -6,4 +6,5 @@
 ### [Day 4](day_4/day_4.md): Higher Order Functions and List Comprehensions
 ### [Day 5](day_5/day_5.md): Processes
 ### [Day 6](day_6/day_6.md): Handling errors
+### [Day 7](day_7/day_7.md): Storing structured data
 ### [Video recordings on YouTube](https://www.youtube.com/playlist?list=PL6K67O_aZIH5W_H7s7iLV-_Kui4cYPv3D)
