@@ -7,4 +7,5 @@
 ### [Day 5](day_5/day_5.md): Processes
 ### [Day 6](day_6/day_6.md): Handling errors
 ### [Day 7](day_7/day_7.md): Storing structured data
+### [Day 8](day_8/day_8.md): Server and supervisor processes, fault tolerance
 ### [Video recordings on YouTube](https://www.youtube.com/playlist?list=PL6K67O_aZIH5W_H7s7iLV-_Kui4cYPv3D)
